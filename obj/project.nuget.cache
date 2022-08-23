@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVaVBH+i+d6HcbjByXuqtLx1eE5Lej9OYP5ZVBerAtY8W+FLQjEb5Ppn2inx6jEngc1AC024Kq6j9HklGuZl8g==",
+  "success": true,
+  "projectFilePath": "/Users/jonathanmeza/repos/MethodExercise/MethodExercise/MethodExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathanmeza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/jonathanmeza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/jonathanmeza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
